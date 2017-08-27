@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="start">开始</string>
+    <string name="pause">暂停</string>
+    <string name="reset">重置</string>
+    <string name="record">记录</string>
+    <string name="timing">定时</string>
+    <string name="timer">计时器</string>
+    <string name="stopwatch">秒表</string>
+    <string name="output">请先定时</string>
+</resources>
