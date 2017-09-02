@@ -3,6 +3,7 @@
 /build
 /captures
 .gradle
+local.properties
 gradle
 .idea
 .externalNativeBuild
